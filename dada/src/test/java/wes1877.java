@@ -1,0 +1,6 @@
+public class wes1877 {
+
+    public static void main(String[] args) {
+        System.out.println("dajkhdakjgafa");
+    }
+}
