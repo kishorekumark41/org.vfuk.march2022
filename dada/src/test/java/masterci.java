@@ -5,5 +5,6 @@ public class masterci {
 
         System.out.println("masterci");
         System.out.println("masterci");
+        System.out.println("masterci");
     }
 }
