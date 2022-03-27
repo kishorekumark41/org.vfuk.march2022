@@ -6,6 +6,8 @@ public class masterci {
         System.out.println("abc method");
     }
     public static void main(String[] args) {
+
+        System.out.println("masterci");
         System.out.println("masterci");
     }
 }
